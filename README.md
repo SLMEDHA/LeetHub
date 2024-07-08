@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/SLMEDHA/LeetHub/tree/master/0110-balanced-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/SLMEDHA/LeetHub/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/SLMEDHA/LeetHub/tree/master/0404-sum-of-left-leaves) |
+| [0543-diameter-of-binary-tree](https://github.com/SLMEDHA/LeetHub/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -72,12 +73,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/SLMEDHA/LeetHub/tree/master/0110-balanced-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/SLMEDHA/LeetHub/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/SLMEDHA/LeetHub/tree/master/0404-sum-of-left-leaves) |
+| [0543-diameter-of-binary-tree](https://github.com/SLMEDHA/LeetHub/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/SLMEDHA/LeetHub/tree/master/0110-balanced-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/SLMEDHA/LeetHub/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/SLMEDHA/LeetHub/tree/master/0404-sum-of-left-leaves) |
+| [0543-diameter-of-binary-tree](https://github.com/SLMEDHA/LeetHub/tree/master/0543-diameter-of-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
