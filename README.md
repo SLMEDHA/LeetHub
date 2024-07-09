@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SLMEDHA/LeetHub/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0239-sliding-window-maximum](https://github.com/SLMEDHA/LeetHub/tree/master/0239-sliding-window-maximum) |
+| [0654-maximum-binary-tree](https://github.com/SLMEDHA/LeetHub/tree/master/0654-maximum-binary-tree) |
 | [0859-design-circular-deque](https://github.com/SLMEDHA/LeetHub/tree/master/0859-design-circular-deque) |
 ## Sliding Window
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SLMEDHA/LeetHub/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0654-maximum-binary-tree](https://github.com/SLMEDHA/LeetHub/tree/master/0654-maximum-binary-tree) |
 ## Tree
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/SLMEDHA/LeetHub/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/SLMEDHA/LeetHub/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/SLMEDHA/LeetHub/tree/master/0543-diameter-of-binary-tree) |
+| [0654-maximum-binary-tree](https://github.com/SLMEDHA/LeetHub/tree/master/0654-maximum-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/SLMEDHA/LeetHub/tree/master/1035-cousins-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -82,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/SLMEDHA/LeetHub/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/SLMEDHA/LeetHub/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/SLMEDHA/LeetHub/tree/master/0543-diameter-of-binary-tree) |
+| [0654-maximum-binary-tree](https://github.com/SLMEDHA/LeetHub/tree/master/0654-maximum-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/SLMEDHA/LeetHub/tree/master/1035-cousins-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -107,4 +111,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SLMEDHA/LeetHub/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0654-maximum-binary-tree](https://github.com/SLMEDHA/LeetHub/tree/master/0654-maximum-binary-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/SLMEDHA/LeetHub/tree/master/0654-maximum-binary-tree) |
 <!---LeetCode Topics End-->
