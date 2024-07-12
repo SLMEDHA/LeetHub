@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/SLMEDHA/LeetHub/tree/master/0239-sliding-window-maximum) |
 | [0654-maximum-binary-tree](https://github.com/SLMEDHA/LeetHub/tree/master/0654-maximum-binary-tree) |
 | [0859-design-circular-deque](https://github.com/SLMEDHA/LeetHub/tree/master/0859-design-circular-deque) |
+| [1036-rotting-oranges](https://github.com/SLMEDHA/LeetHub/tree/master/1036-rotting-oranges) |
 ## Sliding Window
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/SLMEDHA/LeetHub/tree/master/0404-sum-of-left-leaves) |
 | [0662-maximum-width-of-binary-tree](https://github.com/SLMEDHA/LeetHub/tree/master/0662-maximum-width-of-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/SLMEDHA/LeetHub/tree/master/1035-cousins-in-binary-tree) |
+| [1036-rotting-oranges](https://github.com/SLMEDHA/LeetHub/tree/master/1036-rotting-oranges) |
 ## Stack
 |  |
 | ------- |
@@ -131,4 +133,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/SLMEDHA/LeetHub/tree/master/0200-number-of-islands) |
+| [1036-rotting-oranges](https://github.com/SLMEDHA/LeetHub/tree/master/1036-rotting-oranges) |
 <!---LeetCode Topics End-->
