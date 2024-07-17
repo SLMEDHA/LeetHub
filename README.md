@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SLMEDHA/LeetHub/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0146-lru-cache](https://github.com/SLMEDHA/LeetHub/tree/master/0146-lru-cache) |
 | [0387-first-unique-character-in-a-string](https://github.com/SLMEDHA/LeetHub/tree/master/0387-first-unique-character-in-a-string) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/SLMEDHA/LeetHub/tree/master/1392-find-the-difference-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/SLMEDHA/LeetHub/tree/master/0654-maximum-binary-tree) |
 | [0859-design-circular-deque](https://github.com/SLMEDHA/LeetHub/tree/master/0859-design-circular-deque) |
 | [1036-rotting-oranges](https://github.com/SLMEDHA/LeetHub/tree/master/1036-rotting-oranges) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/SLMEDHA/LeetHub/tree/master/1392-find-the-difference-of-two-arrays) |
 ## Sliding Window
 |  |
 | ------- |
