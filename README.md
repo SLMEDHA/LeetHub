@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/SLMEDHA/LeetHub/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/SLMEDHA/LeetHub/tree/master/0643-maximum-average-subarray-i) |
 | [0654-maximum-binary-tree](https://github.com/SLMEDHA/LeetHub/tree/master/0654-maximum-binary-tree) |
+| [0747-min-cost-climbing-stairs](https://github.com/SLMEDHA/LeetHub/tree/master/0747-min-cost-climbing-stairs) |
 | [0859-design-circular-deque](https://github.com/SLMEDHA/LeetHub/tree/master/0859-design-circular-deque) |
 | [1036-rotting-oranges](https://github.com/SLMEDHA/LeetHub/tree/master/1036-rotting-oranges) |
 | [1319-unique-number-of-occurrences](https://github.com/SLMEDHA/LeetHub/tree/master/1319-unique-number-of-occurrences) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/SLMEDHA/LeetHub/tree/master/0338-counting-bits) |
+| [0747-min-cost-climbing-stairs](https://github.com/SLMEDHA/LeetHub/tree/master/0747-min-cost-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/SLMEDHA/LeetHub/tree/master/1236-n-th-tribonacci-number) |
 ## Bit Manipulation
 |  |
