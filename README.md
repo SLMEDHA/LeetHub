@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/SLMEDHA/LeetHub/tree/master/1036-rotting-oranges) |
 | [1319-unique-number-of-occurrences](https://github.com/SLMEDHA/LeetHub/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/SLMEDHA/LeetHub/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1833-find-the-highest-altitude](https://github.com/SLMEDHA/LeetHub/tree/master/1833-find-the-highest-altitude) |
 ## Sliding Window
 |  |
 | ------- |
@@ -148,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/SLMEDHA/LeetHub/tree/master/0338-counting-bits) |
+## Prefix Sum
+|  |
+| ------- |
+| [1833-find-the-highest-altitude](https://github.com/SLMEDHA/LeetHub/tree/master/1833-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
