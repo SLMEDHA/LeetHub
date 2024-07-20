@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/SLMEDHA/LeetHub/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/SLMEDHA/LeetHub/tree/master/0387-first-unique-character-in-a-string) |
 | [0859-design-circular-deque](https://github.com/SLMEDHA/LeetHub/tree/master/0859-design-circular-deque) |
+| [0969-number-of-recent-calls](https://github.com/SLMEDHA/LeetHub/tree/master/0969-number-of-recent-calls) |
 ## Counting
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/SLMEDHA/LeetHub/tree/master/0146-lru-cache) |
 | [0859-design-circular-deque](https://github.com/SLMEDHA/LeetHub/tree/master/0859-design-circular-deque) |
+| [0969-number-of-recent-calls](https://github.com/SLMEDHA/LeetHub/tree/master/0969-number-of-recent-calls) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -153,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-find-the-highest-altitude](https://github.com/SLMEDHA/LeetHub/tree/master/1833-find-the-highest-altitude) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/SLMEDHA/LeetHub/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
