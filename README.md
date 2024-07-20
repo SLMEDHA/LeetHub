@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/SLMEDHA/LeetHub/tree/master/0338-counting-bits) |
+| [1236-n-th-tribonacci-number](https://github.com/SLMEDHA/LeetHub/tree/master/1236-n-th-tribonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -178,4 +179,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/SLMEDHA/LeetHub/tree/master/0374-guess-number-higher-or-lower) |
+## Math
+|  |
+| ------- |
+| [1236-n-th-tribonacci-number](https://github.com/SLMEDHA/LeetHub/tree/master/1236-n-th-tribonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1236-n-th-tribonacci-number](https://github.com/SLMEDHA/LeetHub/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
