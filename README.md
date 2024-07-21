@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SLMEDHA/LeetHub/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/SLMEDHA/LeetHub/tree/master/0200-number-of-islands) |
+| [0238-product-of-array-except-self](https://github.com/SLMEDHA/LeetHub/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/SLMEDHA/LeetHub/tree/master/0239-sliding-window-maximum) |
 | [0334-increasing-triplet-subsequence](https://github.com/SLMEDHA/LeetHub/tree/master/0334-increasing-triplet-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/SLMEDHA/LeetHub/tree/master/0643-maximum-average-subarray-i) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/SLMEDHA/LeetHub/tree/master/0238-product-of-array-except-self) |
 | [1833-find-the-highest-altitude](https://github.com/SLMEDHA/LeetHub/tree/master/1833-find-the-highest-altitude) |
 ## Data Stream
 |  |
