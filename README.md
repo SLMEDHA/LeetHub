@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/SLMEDHA/LeetHub/tree/master/0011-container-with-most-water) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SLMEDHA/LeetHub/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/SLMEDHA/LeetHub/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/SLMEDHA/LeetHub/tree/master/0238-product-of-array-except-self) |
@@ -197,10 +198,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/SLMEDHA/LeetHub/tree/master/0011-container-with-most-water) |
 | [0151-reverse-words-in-a-string](https://github.com/SLMEDHA/LeetHub/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/SLMEDHA/LeetHub/tree/master/0443-string-compression) |
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/SLMEDHA/LeetHub/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/SLMEDHA/LeetHub/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
