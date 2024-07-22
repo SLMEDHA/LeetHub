@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/SLMEDHA/LeetHub/tree/master/0387-first-unique-character-in-a-string) |
 | [1319-unique-number-of-occurrences](https://github.com/SLMEDHA/LeetHub/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/SLMEDHA/LeetHub/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/SLMEDHA/LeetHub/tree/master/1798-max-number-of-k-sum-pairs) |
 ## String
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/SLMEDHA/LeetHub/tree/master/1036-rotting-oranges) |
 | [1319-unique-number-of-occurrences](https://github.com/SLMEDHA/LeetHub/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/SLMEDHA/LeetHub/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/SLMEDHA/LeetHub/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/SLMEDHA/LeetHub/tree/master/1833-find-the-highest-altitude) |
 ## Sliding Window
 |  |
@@ -201,9 +203,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/SLMEDHA/LeetHub/tree/master/0011-container-with-most-water) |
 | [0151-reverse-words-in-a-string](https://github.com/SLMEDHA/LeetHub/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/SLMEDHA/LeetHub/tree/master/0443-string-compression) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/SLMEDHA/LeetHub/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SLMEDHA/LeetHub/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/SLMEDHA/LeetHub/tree/master/0334-increasing-triplet-subsequence) |
+## Sorting
+|  |
+| ------- |
+| [1798-max-number-of-k-sum-pairs](https://github.com/SLMEDHA/LeetHub/tree/master/1798-max-number-of-k-sum-pairs) |
 <!---LeetCode Topics End-->
