@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SLMEDHA/LeetHub/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0146-lru-cache](https://github.com/SLMEDHA/LeetHub/tree/master/0146-lru-cache) |
+| [0229-majority-element-ii](https://github.com/SLMEDHA/LeetHub/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/SLMEDHA/LeetHub/tree/master/0387-first-unique-character-in-a-string) |
 | [1319-unique-number-of-occurrences](https://github.com/SLMEDHA/LeetHub/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/SLMEDHA/LeetHub/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/SLMEDHA/LeetHub/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/SLMEDHA/LeetHub/tree/master/0387-first-unique-character-in-a-string) |
 | [1777-determine-if-two-strings-are-close](https://github.com/SLMEDHA/LeetHub/tree/master/1777-determine-if-two-strings-are-close) |
 ## Array
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/SLMEDHA/LeetHub/tree/master/0031-next-permutation) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SLMEDHA/LeetHub/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/SLMEDHA/LeetHub/tree/master/0200-number-of-islands) |
+| [0229-majority-element-ii](https://github.com/SLMEDHA/LeetHub/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/SLMEDHA/LeetHub/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/SLMEDHA/LeetHub/tree/master/0239-sliding-window-maximum) |
 | [0334-increasing-triplet-subsequence](https://github.com/SLMEDHA/LeetHub/tree/master/0334-increasing-triplet-subsequence) |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/SLMEDHA/LeetHub/tree/master/0229-majority-element-ii) |
 | [1777-determine-if-two-strings-are-close](https://github.com/SLMEDHA/LeetHub/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/SLMEDHA/LeetHub/tree/master/1798-max-number-of-k-sum-pairs) |
 <!---LeetCode Topics End-->
