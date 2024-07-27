@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/SLMEDHA/LeetHub/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/SLMEDHA/LeetHub/tree/master/0031-next-permutation) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SLMEDHA/LeetHub/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0152-maximum-product-subarray](https://github.com/SLMEDHA/LeetHub/tree/master/0152-maximum-product-subarray) |
 | [0200-number-of-islands](https://github.com/SLMEDHA/LeetHub/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/SLMEDHA/LeetHub/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/SLMEDHA/LeetHub/tree/master/0238-product-of-array-except-self) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0152-maximum-product-subarray](https://github.com/SLMEDHA/LeetHub/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/SLMEDHA/LeetHub/tree/master/0338-counting-bits) |
 | [0747-min-cost-climbing-stairs](https://github.com/SLMEDHA/LeetHub/tree/master/0747-min-cost-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/SLMEDHA/LeetHub/tree/master/1236-n-th-tribonacci-number) |
