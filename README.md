@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SLMEDHA/LeetHub/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0146-lru-cache](https://github.com/SLMEDHA/LeetHub/tree/master/0146-lru-cache) |
+| [0160-intersection-of-two-linked-lists](https://github.com/SLMEDHA/LeetHub/tree/master/0160-intersection-of-two-linked-lists) |
 | [0229-majority-element-ii](https://github.com/SLMEDHA/LeetHub/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/SLMEDHA/LeetHub/tree/master/0387-first-unique-character-in-a-string) |
 | [1319-unique-number-of-occurrences](https://github.com/SLMEDHA/LeetHub/tree/master/1319-unique-number-of-occurrences) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SLMEDHA/LeetHub/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0146-lru-cache](https://github.com/SLMEDHA/LeetHub/tree/master/0146-lru-cache) |
+| [0160-intersection-of-two-linked-lists](https://github.com/SLMEDHA/LeetHub/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/SLMEDHA/LeetHub/tree/master/0206-reverse-linked-list) |
 | [0859-design-circular-deque](https://github.com/SLMEDHA/LeetHub/tree/master/0859-design-circular-deque) |
 ## Design
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/SLMEDHA/LeetHub/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/SLMEDHA/LeetHub/tree/master/0031-next-permutation) |
 | [0151-reverse-words-in-a-string](https://github.com/SLMEDHA/LeetHub/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/SLMEDHA/LeetHub/tree/master/0160-intersection-of-two-linked-lists) |
 | [0443-string-compression](https://github.com/SLMEDHA/LeetHub/tree/master/0443-string-compression) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/SLMEDHA/LeetHub/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Greedy
