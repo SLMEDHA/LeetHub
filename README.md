@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/SLMEDHA/LeetHub/tree/master/0007-reverse-integer) |
 | [1236-n-th-tribonacci-number](https://github.com/SLMEDHA/LeetHub/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
 |  |
