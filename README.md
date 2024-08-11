@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/SLMEDHA/LeetHub/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/SLMEDHA/LeetHub/tree/master/0268-missing-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/SLMEDHA/LeetHub/tree/master/0334-increasing-triplet-subsequence) |
+| [0485-max-consecutive-ones](https://github.com/SLMEDHA/LeetHub/tree/master/0485-max-consecutive-ones) |
 | [0621-task-scheduler](https://github.com/SLMEDHA/LeetHub/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/SLMEDHA/LeetHub/tree/master/0643-maximum-average-subarray-i) |
 | [0654-maximum-binary-tree](https://github.com/SLMEDHA/LeetHub/tree/master/0654-maximum-binary-tree) |
