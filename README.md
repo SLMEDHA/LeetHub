@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/SLMEDHA/LeetHub/tree/master/1078-remove-outermost-parentheses) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SLMEDHA/LeetHub/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/SLMEDHA/LeetHub/tree/master/1777-determine-if-two-strings-are-close) |
+| [2032-largest-odd-number-in-string](https://github.com/SLMEDHA/LeetHub/tree/master/2032-largest-odd-number-in-string) |
 ## Queue
 |  |
 | ------- |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/SLMEDHA/LeetHub/tree/master/0007-reverse-integer) |
 | [0268-missing-number](https://github.com/SLMEDHA/LeetHub/tree/master/0268-missing-number) |
 | [1236-n-th-tribonacci-number](https://github.com/SLMEDHA/LeetHub/tree/master/1236-n-th-tribonacci-number) |
+| [2032-largest-odd-number-in-string](https://github.com/SLMEDHA/LeetHub/tree/master/2032-largest-odd-number-in-string) |
 ## Memoization
 |  |
 | ------- |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/SLMEDHA/LeetHub/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/SLMEDHA/LeetHub/tree/master/0334-increasing-triplet-subsequence) |
 | [0621-task-scheduler](https://github.com/SLMEDHA/LeetHub/tree/master/0621-task-scheduler) |
+| [2032-largest-odd-number-in-string](https://github.com/SLMEDHA/LeetHub/tree/master/2032-largest-odd-number-in-string) |
 ## Sorting
 |  |
 | ------- |
