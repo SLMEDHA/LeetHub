@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SLMEDHA/LeetHub/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/SLMEDHA/LeetHub/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/SLMEDHA/LeetHub/tree/master/0404-sum-of-left-leaves) |
+| [0450-delete-node-in-a-bst](https://github.com/SLMEDHA/LeetHub/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/SLMEDHA/LeetHub/tree/master/0543-diameter-of-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/SLMEDHA/LeetHub/tree/master/0654-maximum-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/SLMEDHA/LeetHub/tree/master/0662-maximum-width-of-binary-tree) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SLMEDHA/LeetHub/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/SLMEDHA/LeetHub/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/SLMEDHA/LeetHub/tree/master/0404-sum-of-left-leaves) |
+| [0450-delete-node-in-a-bst](https://github.com/SLMEDHA/LeetHub/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/SLMEDHA/LeetHub/tree/master/0543-diameter-of-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/SLMEDHA/LeetHub/tree/master/0654-maximum-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/SLMEDHA/LeetHub/tree/master/0662-maximum-width-of-binary-tree) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SLMEDHA/LeetHub/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/SLMEDHA/LeetHub/tree/master/0268-missing-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/SLMEDHA/LeetHub/tree/master/0374-guess-number-higher-or-lower) |
+| [0450-delete-node-in-a-bst](https://github.com/SLMEDHA/LeetHub/tree/master/0450-delete-node-in-a-bst) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SLMEDHA/LeetHub/tree/master/0540-single-element-in-a-sorted-array) |
 | [0783-search-in-a-binary-search-tree](https://github.com/SLMEDHA/LeetHub/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/SLMEDHA/LeetHub/tree/master/0784-insert-into-a-binary-search-tree) |
