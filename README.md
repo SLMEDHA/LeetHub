@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SLMEDHA/LeetHub/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/SLMEDHA/LeetHub/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SLMEDHA/LeetHub/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/SLMEDHA/LeetHub/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SLMEDHA/LeetHub/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SLMEDHA/LeetHub/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/SLMEDHA/LeetHub/tree/master/0257-binary-tree-paths) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SLMEDHA/LeetHub/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/SLMEDHA/LeetHub/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SLMEDHA/LeetHub/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/SLMEDHA/LeetHub/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SLMEDHA/LeetHub/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SLMEDHA/LeetHub/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/SLMEDHA/LeetHub/tree/master/0257-binary-tree-paths) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/SLMEDHA/LeetHub/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SLMEDHA/LeetHub/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/SLMEDHA/LeetHub/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0200-number-of-islands](https://github.com/SLMEDHA/LeetHub/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SLMEDHA/LeetHub/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SLMEDHA/LeetHub/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/SLMEDHA/LeetHub/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/SLMEDHA/LeetHub/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/SLMEDHA/LeetHub/tree/master/0338-counting-bits) |
 | [0747-min-cost-climbing-stairs](https://github.com/SLMEDHA/LeetHub/tree/master/0747-min-cost-climbing-stairs) |
