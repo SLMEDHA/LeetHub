@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/SLMEDHA/LeetHub/tree/master/0151-reverse-words-in-a-string) |
 | [0257-binary-tree-paths](https://github.com/SLMEDHA/LeetHub/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/SLMEDHA/LeetHub/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0387-first-unique-character-in-a-string](https://github.com/SLMEDHA/LeetHub/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/SLMEDHA/LeetHub/tree/master/0443-string-compression) |
 | [0812-rotate-string](https://github.com/SLMEDHA/LeetHub/tree/master/0812-rotate-string) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/SLMEDHA/LeetHub/tree/master/0146-lru-cache) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/SLMEDHA/LeetHub/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0859-design-circular-deque](https://github.com/SLMEDHA/LeetHub/tree/master/0859-design-circular-deque) |
 | [0969-number-of-recent-calls](https://github.com/SLMEDHA/LeetHub/tree/master/0969-number-of-recent-calls) |
 ## Doubly-Linked List
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SLMEDHA/LeetHub/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SLMEDHA/LeetHub/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/SLMEDHA/LeetHub/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/SLMEDHA/LeetHub/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/SLMEDHA/LeetHub/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/SLMEDHA/LeetHub/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/SLMEDHA/LeetHub/tree/master/0543-diameter-of-binary-tree) |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SLMEDHA/LeetHub/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SLMEDHA/LeetHub/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/SLMEDHA/LeetHub/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/SLMEDHA/LeetHub/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/SLMEDHA/LeetHub/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/SLMEDHA/LeetHub/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/SLMEDHA/LeetHub/tree/master/0543-diameter-of-binary-tree) |
@@ -169,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SLMEDHA/LeetHub/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SLMEDHA/LeetHub/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/SLMEDHA/LeetHub/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/SLMEDHA/LeetHub/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/SLMEDHA/LeetHub/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/SLMEDHA/LeetHub/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/SLMEDHA/LeetHub/tree/master/0662-maximum-width-of-binary-tree) |
@@ -183,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/SLMEDHA/LeetHub/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0200-number-of-islands](https://github.com/SLMEDHA/LeetHub/tree/master/0200-number-of-islands) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/SLMEDHA/LeetHub/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/SLMEDHA/LeetHub/tree/master/0404-sum-of-left-leaves) |
 | [0662-maximum-width-of-binary-tree](https://github.com/SLMEDHA/LeetHub/tree/master/0662-maximum-width-of-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/SLMEDHA/LeetHub/tree/master/1035-cousins-in-binary-tree) |
