@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SLMEDHA/LeetHub/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0146-lru-cache](https://github.com/SLMEDHA/LeetHub/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SLMEDHA/LeetHub/tree/master/0160-intersection-of-two-linked-lists) |
+| [0208-implement-trie-prefix-tree](https://github.com/SLMEDHA/LeetHub/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/SLMEDHA/LeetHub/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/SLMEDHA/LeetHub/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/SLMEDHA/LeetHub/tree/master/0387-first-unique-character-in-a-string) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/SLMEDHA/LeetHub/tree/master/0151-reverse-words-in-a-string) |
+| [0208-implement-trie-prefix-tree](https://github.com/SLMEDHA/LeetHub/tree/master/0208-implement-trie-prefix-tree) |
 | [0257-binary-tree-paths](https://github.com/SLMEDHA/LeetHub/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/SLMEDHA/LeetHub/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0387-first-unique-character-in-a-string](https://github.com/SLMEDHA/LeetHub/tree/master/0387-first-unique-character-in-a-string) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/SLMEDHA/LeetHub/tree/master/0146-lru-cache) |
+| [0208-implement-trie-prefix-tree](https://github.com/SLMEDHA/LeetHub/tree/master/0208-implement-trie-prefix-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/SLMEDHA/LeetHub/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0859-design-circular-deque](https://github.com/SLMEDHA/LeetHub/tree/master/0859-design-circular-deque) |
 | [0969-number-of-recent-calls](https://github.com/SLMEDHA/LeetHub/tree/master/0969-number-of-recent-calls) |
@@ -324,4 +327,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/SLMEDHA/LeetHub/tree/master/0572-subtree-of-another-tree) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/SLMEDHA/LeetHub/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
