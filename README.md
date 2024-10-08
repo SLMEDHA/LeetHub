@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/SLMEDHA/LeetHub/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/SLMEDHA/LeetHub/tree/master/0268-missing-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/SLMEDHA/LeetHub/tree/master/0334-increasing-triplet-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/SLMEDHA/LeetHub/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/SLMEDHA/LeetHub/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SLMEDHA/LeetHub/tree/master/0540-single-element-in-a-sorted-array) |
 | [0621-task-scheduler](https://github.com/SLMEDHA/LeetHub/tree/master/0621-task-scheduler) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/SLMEDHA/LeetHub/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/SLMEDHA/LeetHub/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/SLMEDHA/LeetHub/tree/master/0338-counting-bits) |
+| [0435-non-overlapping-intervals](https://github.com/SLMEDHA/LeetHub/tree/master/0435-non-overlapping-intervals) |
 | [0747-min-cost-climbing-stairs](https://github.com/SLMEDHA/LeetHub/tree/master/0747-min-cost-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/SLMEDHA/LeetHub/tree/master/1236-n-th-tribonacci-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SLMEDHA/LeetHub/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/SLMEDHA/LeetHub/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/SLMEDHA/LeetHub/tree/master/0334-increasing-triplet-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/SLMEDHA/LeetHub/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/SLMEDHA/LeetHub/tree/master/0621-task-scheduler) |
 | [2032-largest-odd-number-in-string](https://github.com/SLMEDHA/LeetHub/tree/master/2032-largest-odd-number-in-string) |
 ## Sorting
@@ -310,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/SLMEDHA/LeetHub/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/SLMEDHA/LeetHub/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/SLMEDHA/LeetHub/tree/master/0268-missing-number) |
+| [0435-non-overlapping-intervals](https://github.com/SLMEDHA/LeetHub/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/SLMEDHA/LeetHub/tree/master/0621-task-scheduler) |
 | [1777-determine-if-two-strings-are-close](https://github.com/SLMEDHA/LeetHub/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/SLMEDHA/LeetHub/tree/master/1798-max-number-of-k-sum-pairs) |
